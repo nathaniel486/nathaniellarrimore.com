@@ -109,6 +109,7 @@ hr {
 }
 
 footer {
+	margin-top: 100%;
     background: #fff;
     background: rgba(21,26,76,.88);
 }
