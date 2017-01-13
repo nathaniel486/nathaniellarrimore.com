@@ -69,7 +69,7 @@
                     </p>
                 </div>
 				 <div class="col-lg-6">
-                    <form name='contactForm' role="form" onsubmit='return validateForm()' action='email.php'>
+                    <form name='contactForm' role="form" onsubmit='return validateForm()' action='email.php' method='post'>
 
                                 <label>Name</label>
 								<div id='nameError'></div>
@@ -88,8 +88,8 @@
                                 <textarea class="form-control" name='text' rows="6"></textarea>
 
                                 <div class="g-recaptcha" data-sitekey="6Lc-8g8UAAAAAFSK91QpWK0wiR4irTMuY6o4yQ6z"></div>
-
-                                <button type="submit" class="btn btn-default">Submit</button>
+								
+                                <button type="submit" class="btn btn-default">Submit</button
                     </form>
                 </div>
             </div>
