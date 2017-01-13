@@ -51,7 +51,7 @@
                     <hr>
                 </div>
                 <div class="col-md-3">
-                    <img class="img-responsive img-border-left" src="me.png" alt="nathaniel larrimore">
+                    <img class="img-responsive img-border-left" src="img/me.png" alt="nathaniel larrimore">
                 </div>
                 <div class="col-md-9">
                     <p>I'm Nathaniel, I currently live in Rochester, NY where I go to school at Rochester Institute of Technology.  I'm originally from New Castle, Delaware (Delawa-Where? haha....)
